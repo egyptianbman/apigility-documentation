@@ -17,8 +17,8 @@ dependencies.
 
 ```console
 $ composer require "zfcampus/zf-apigility:~1.0"
+$ composer require "zfcampus/zf-development-mode:~2.0"
 $ composer require --dev "zfcampus/zf-apigility-admin:~1.0"
-$ composer require --dev "zfcampus/zf-development-mode:~2.0"
 ```
 
 Now, to ensure that the development-time tools are accessible and cannot be accidentially deployed
